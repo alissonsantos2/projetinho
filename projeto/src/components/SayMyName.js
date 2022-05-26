@@ -1,8 +1,6 @@
-function SayMyName(propos) {
+function SayMyName(){
 
-    return (
-        <div>Fala aí {propos.nome}, suave?</div>
-    )
+    return
 }
 
 export default SayMyName
